@@ -1,0 +1,4 @@
+defaultProject: databricks-361206
+defaultDataset: test_ds
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.52
